@@ -16,8 +16,8 @@ import matplotlib.pyplot as plt
 
 """# Importing the required data set (CSV files)#"""
 
-df_train=pd.read_csv("../data/train_data_evaluation_part_2.csv")
-df_test=pd.read_csv("../data/test_data_evaluation_part2.csv")
+df_train=pd.read_csv("train_data_evaluation_part_2.csv")
+df_test=pd.read_csv("test_data_evaluation_part2.csv")
 df_train.head(10)
 df_test.head(10)
 
