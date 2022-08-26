@@ -289,7 +289,7 @@ print(f"Classification Report : \n{clf_report}")
 
 """#CAT Boost Classifier"""
 
-pip install catboost
+# pip install catboost
 
 #importing Cat  boost classifier
 from catboost import CatBoostClassifier
